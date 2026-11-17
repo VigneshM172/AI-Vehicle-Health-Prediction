@@ -1,0 +1,6 @@
+{
+  "name": "Vehicle Health Prediction & OBD Simulator",
+  "description": "Real-time OBD-II vehicle health prediction, predictive maintenance monitoring, and sensor simulation system powered by Random Forest ML classification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

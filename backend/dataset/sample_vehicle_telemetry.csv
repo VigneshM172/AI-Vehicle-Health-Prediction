@@ -1,0 +1,9 @@
+km_driven,road_type,braking_style,load,engine_temp,rpm,battery_voltage,component_age,speed,throttle_position
+15000,Highway,Gentle,25,86,2100,14.2,10,65,25
+22000,City,Moderate,40,90,2600,14.0,14,45,35
+38000,City,Aggressive,60,99,3800,12.3,26,72,60
+52000,Rough,Sudden,85,115,5200,11.1,40,110,88
+12000,Highway,Gentle,20,84,1950,14.3,8,70,22
+45000,Offroad,Aggressive,75,108,4400,11.9,32,85,75
+29000,City,Moderate,35,89,2400,13.9,18,50,30
+65000,Rough,Sudden,90,121,5800,10.6,48,125,95
